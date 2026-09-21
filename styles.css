@@ -366,7 +366,7 @@ button{ font-family: inherit; cursor: pointer; }
 .annachy-feature .section-head{ margin-bottom: 22px; }
 .annachy-feature .section-icon{ width: 60px; height: 60px; font-size: 27px; }
 .annachy-feature .section-head h2{ font-size: 27px; }
-.annachy-copy{ max-width: 70ch; color: var(--ink-soft); margin: 0 0 26px; font-size: 16px; }
+.annachy-copy{ max-width: 70ch; color: #242424 ; margin: 0 0 26px; font-size: 16px; }
 .metric-chips{ display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin-bottom: 30px; }
 .chip{
   background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
